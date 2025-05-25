@@ -1,0 +1,2216 @@
+{
+  "Version": 1,
+  "Hash": "AsnDd2L/yPpCELuGsX50/BMgBL2NYd5JAQF3VZ6DJ6o=",
+  "Source": "SWE2209842Asg",
+  "BasePath": "_content/SWE2209842Asg",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SWE2209842Asg\\wwwroot",
+      "Source": "SWE2209842Asg",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\obj\\Debug\\net9.0\\compressed\\7ho8qo6vvw-qm5h72zcgq.gz",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "styles/site#[.{fingerprint=qm5h72zcgq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\styles\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4agrl8dcdu",
+      "Integrity": "LLC2266A8jRBTpUNnGVhlYws7RW2hNdGj3rhMu0A2Oc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\styles\\site.css"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\homepage.jpg",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/homepage#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rw4gz1as3q",
+      "Integrity": "JTx4MC23Z07XwxQIzPfd6TkX8jkfJwBi8nb8sTy9PdQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\homepage.jpg"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\csharp.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/csharp#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wy5732e7d9",
+      "Integrity": "+ORePCMQpREJpBQBxsPYr37AAv5FJMEgTiXdxjASRq8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\csharp.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\email.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/email#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrdpthcwg9",
+      "Integrity": "9vL+CYK6+qJQeSeX9nunBKKTJ0LPUS905dUScLMqhcE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\email.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\figma.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/figma#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xrqn1gcy6r",
+      "Integrity": "s/cfrfmCQ/7S+pix1O7ogyzg7DcXUw98by+V1rQITOc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\figma.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\flutter.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/flutter#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rbdjr7u1wx",
+      "Integrity": "N2GSWpq3YCNrRhwBZJ4Gb4KkOUdhxfSTfho334vA2GE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\flutter.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\git.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/git#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u1n7hpovkq",
+      "Integrity": "cmWyGTHGablWlUoVyzK3HQUAAiU2MUSiYC7exxkDeiE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\git.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\github.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/github#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s0x03nnomw",
+      "Integrity": "LLaY86cl5CgAFy9mKhDeZOJvvEQlrYcWCUcq3UPHf/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\github.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\java.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/java#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w40kutkbna",
+      "Integrity": "UFCzN181ie+Ml4qakcjis73qGo+4YESjYArDA6zZEd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\java.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\linkedin.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/linkedin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ct5edm3n5s",
+      "Integrity": "8Ekbri72I509PUmCEEcYk4OUEzK6GyX9RmYQ73PB/M4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\linkedin.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\netcore.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/netcore#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ks4dal6ula",
+      "Integrity": "fAikIKW25D+Gmq2k9kdJffaSE6fsEs+jK9RbtQlHARs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\netcore.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\phone.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/phone#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6l09f4mb2c",
+      "Integrity": "OorLcokE/DcXWRNfADP6G2/4PJmiW5x9gPQyR4S3oDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\phone.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\python.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/python#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0uxoabbct6",
+      "Integrity": "SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\python.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\react.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/react#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7fvb0lgen",
+      "Integrity": "RWZlKtuE8Ku/3UA3pXN+8aw4HVB0xIrikiRQrkO3FaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\react.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\vscode.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/vscode#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "92jjc6gpju",
+      "Integrity": "QYtRYkrR6eAaoMRsAN4Bz5v580ANzxD6kkDguBHAa0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\vscode.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\whatsapp.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/icons/whatsapp#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g3egacgq6r",
+      "Integrity": "XCXh+aJWeQwcazISNKBEv5OD0I+3t0S3FMijw30GtHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\whatsapp.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\logo.png",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dnpscw0haj",
+      "Integrity": "2bxkcQ5itI5xr2g/gvn/FZe47khdW0F/zNU2z6kfldM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\noBG.jpg",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/noBG#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59qqn2ej0h",
+      "Integrity": "l5lUAz51pjOOvpz6VbiMWcrMpswxUNmJdzP0qegrhLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\noBG.jpg"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\profile.jpg",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "images/profile#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m1c9qz1m99",
+      "Integrity": "xgRlr9xT71DW5zTfOSKQ3t4SBnch9vdzTLmem3FUE6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profile.jpg"
+    },
+    {
+      "Identity": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\styles\\site.css",
+      "SourceId": "SWE2209842Asg",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\",
+      "BasePath": "_content/SWE2209842Asg",
+      "RelativePath": "styles/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qm5h72zcgq",
+      "Integrity": "whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/homepage.jpg",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\homepage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JTx4MC23Z07XwxQIzPfd6TkX8jkfJwBi8nb8sTy9PdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 09:39:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JTx4MC23Z07XwxQIzPfd6TkX8jkfJwBi8nb8sTy9PdQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage.rw4gz1as3q.jpg",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\homepage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JTx4MC23Z07XwxQIzPfd6TkX8jkfJwBi8nb8sTy9PdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 09:39:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rw4gz1as3q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/homepage.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JTx4MC23Z07XwxQIzPfd6TkX8jkfJwBi8nb8sTy9PdQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/csharp.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\csharp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ORePCMQpREJpBQBxsPYr37AAv5FJMEgTiXdxjASRq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:55:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ORePCMQpREJpBQBxsPYr37AAv5FJMEgTiXdxjASRq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/csharp.wy5732e7d9.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\csharp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+ORePCMQpREJpBQBxsPYr37AAv5FJMEgTiXdxjASRq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:55:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wy5732e7d9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/csharp.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+ORePCMQpREJpBQBxsPYr37AAv5FJMEgTiXdxjASRq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/email.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\email.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vL+CYK6+qJQeSeX9nunBKKTJ0LPUS905dUScLMqhcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vL+CYK6+qJQeSeX9nunBKKTJ0LPUS905dUScLMqhcE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/email.qrdpthcwg9.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\email.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vL+CYK6+qJQeSeX9nunBKKTJ0LPUS905dUScLMqhcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrdpthcwg9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/email.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vL+CYK6+qJQeSeX9nunBKKTJ0LPUS905dUScLMqhcE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/figma.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\figma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s/cfrfmCQ/7S+pix1O7ogyzg7DcXUw98by+V1rQITOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:59:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s/cfrfmCQ/7S+pix1O7ogyzg7DcXUw98by+V1rQITOc="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/figma.xrqn1gcy6r.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\figma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s/cfrfmCQ/7S+pix1O7ogyzg7DcXUw98by+V1rQITOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:59:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrqn1gcy6r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/figma.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s/cfrfmCQ/7S+pix1O7ogyzg7DcXUw98by+V1rQITOc="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/flutter.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\flutter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N2GSWpq3YCNrRhwBZJ4Gb4KkOUdhxfSTfho334vA2GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:57:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N2GSWpq3YCNrRhwBZJ4Gb4KkOUdhxfSTfho334vA2GE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/flutter.rbdjr7u1wx.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\flutter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N2GSWpq3YCNrRhwBZJ4Gb4KkOUdhxfSTfho334vA2GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:57:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rbdjr7u1wx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/flutter.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N2GSWpq3YCNrRhwBZJ4Gb4KkOUdhxfSTfho334vA2GE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/git.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\git.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cmWyGTHGablWlUoVyzK3HQUAAiU2MUSiYC7exxkDeiE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cmWyGTHGablWlUoVyzK3HQUAAiU2MUSiYC7exxkDeiE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/git.u1n7hpovkq.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\git.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cmWyGTHGablWlUoVyzK3HQUAAiU2MUSiYC7exxkDeiE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:58:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1n7hpovkq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/git.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cmWyGTHGablWlUoVyzK3HQUAAiU2MUSiYC7exxkDeiE="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/github.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LLaY86cl5CgAFy9mKhDeZOJvvEQlrYcWCUcq3UPHf/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LLaY86cl5CgAFy9mKhDeZOJvvEQlrYcWCUcq3UPHf/w="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/github.s0x03nnomw.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\github.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LLaY86cl5CgAFy9mKhDeZOJvvEQlrYcWCUcq3UPHf/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0x03nnomw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/github.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LLaY86cl5CgAFy9mKhDeZOJvvEQlrYcWCUcq3UPHf/w="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/java.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\java.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UFCzN181ie+Ml4qakcjis73qGo+4YESjYArDA6zZEd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:56:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UFCzN181ie+Ml4qakcjis73qGo+4YESjYArDA6zZEd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/java.w40kutkbna.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\java.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UFCzN181ie+Ml4qakcjis73qGo+4YESjYArDA6zZEd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:56:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w40kutkbna"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/java.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UFCzN181ie+Ml4qakcjis73qGo+4YESjYArDA6zZEd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/linkedin.ct5edm3n5s.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Ekbri72I509PUmCEEcYk4OUEzK6GyX9RmYQ73PB/M4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:36:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ct5edm3n5s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/linkedin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Ekbri72I509PUmCEEcYk4OUEzK6GyX9RmYQ73PB/M4="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/linkedin.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\linkedin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Ekbri72I509PUmCEEcYk4OUEzK6GyX9RmYQ73PB/M4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:36:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Ekbri72I509PUmCEEcYk4OUEzK6GyX9RmYQ73PB/M4="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/netcore.ks4dal6ula.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\netcore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fAikIKW25D+Gmq2k9kdJffaSE6fsEs+jK9RbtQlHARs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:56:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ks4dal6ula"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/netcore.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fAikIKW25D+Gmq2k9kdJffaSE6fsEs+jK9RbtQlHARs="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/netcore.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\netcore.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fAikIKW25D+Gmq2k9kdJffaSE6fsEs+jK9RbtQlHARs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:56:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fAikIKW25D+Gmq2k9kdJffaSE6fsEs+jK9RbtQlHARs="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/phone.6l09f4mb2c.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\phone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OorLcokE/DcXWRNfADP6G2/4PJmiW5x9gPQyR4S3oDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6l09f4mb2c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/phone.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OorLcokE/DcXWRNfADP6G2/4PJmiW5x9gPQyR4S3oDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/phone.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\phone.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OorLcokE/DcXWRNfADP6G2/4PJmiW5x9gPQyR4S3oDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OorLcokE/DcXWRNfADP6G2/4PJmiW5x9gPQyR4S3oDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/python.0uxoabbct6.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\python.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:54:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0uxoabbct6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/python.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/python.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\python.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:54:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/react.f7fvb0lgen.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\react.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RWZlKtuE8Ku/3UA3pXN+8aw4HVB0xIrikiRQrkO3FaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:58:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7fvb0lgen"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/react.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RWZlKtuE8Ku/3UA3pXN+8aw4HVB0xIrikiRQrkO3FaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/react.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\react.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RWZlKtuE8Ku/3UA3pXN+8aw4HVB0xIrikiRQrkO3FaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:58:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RWZlKtuE8Ku/3UA3pXN+8aw4HVB0xIrikiRQrkO3FaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/vscode.92jjc6gpju.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\vscode.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QYtRYkrR6eAaoMRsAN4Bz5v580ANzxD6kkDguBHAa0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:58:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "92jjc6gpju"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/vscode.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QYtRYkrR6eAaoMRsAN4Bz5v580ANzxD6kkDguBHAa0M="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/vscode.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\vscode.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QYtRYkrR6eAaoMRsAN4Bz5v580ANzxD6kkDguBHAa0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:58:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QYtRYkrR6eAaoMRsAN4Bz5v580ANzxD6kkDguBHAa0M="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/whatsapp.g3egacgq6r.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\whatsapp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100734"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XCXh+aJWeQwcazISNKBEv5OD0I+3t0S3FMijw30GtHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:40:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g3egacgq6r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/icons/whatsapp.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XCXh+aJWeQwcazISNKBEv5OD0I+3t0S3FMijw30GtHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/icons/whatsapp.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\whatsapp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100734"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XCXh+aJWeQwcazISNKBEv5OD0I+3t0S3FMijw30GtHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 12:40:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XCXh+aJWeQwcazISNKBEv5OD0I+3t0S3FMijw30GtHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.dnpscw0haj.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "677254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bxkcQ5itI5xr2g/gvn/FZe47khdW0F/zNU2z6kfldM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:17:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnpscw0haj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bxkcQ5itI5xr2g/gvn/FZe47khdW0F/zNU2z6kfldM="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "677254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bxkcQ5itI5xr2g/gvn/FZe47khdW0F/zNU2z6kfldM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:17:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bxkcQ5itI5xr2g/gvn/FZe47khdW0F/zNU2z6kfldM="
+        }
+      ]
+    },
+    {
+      "Route": "images/noBG.59qqn2ej0h.jpg",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\noBG.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l5lUAz51pjOOvpz6VbiMWcrMpswxUNmJdzP0qegrhLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59qqn2ej0h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/noBG.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l5lUAz51pjOOvpz6VbiMWcrMpswxUNmJdzP0qegrhLg="
+        }
+      ]
+    },
+    {
+      "Route": "images/noBG.jpg",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\noBG.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l5lUAz51pjOOvpz6VbiMWcrMpswxUNmJdzP0qegrhLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:19:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l5lUAz51pjOOvpz6VbiMWcrMpswxUNmJdzP0qegrhLg="
+        }
+      ]
+    },
+    {
+      "Route": "images/profile.jpg",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgRlr9xT71DW5zTfOSKQ3t4SBnch9vdzTLmem3FUE6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 10:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgRlr9xT71DW5zTfOSKQ3t4SBnch9vdzTLmem3FUE6g="
+        }
+      ]
+    },
+    {
+      "Route": "images/profile.m1c9qz1m99.jpg",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\profile.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xgRlr9xT71DW5zTfOSKQ3t4SBnch9vdzTLmem3FUE6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 10:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1c9qz1m99"
+        },
+        {
+          "Name": "label",
+          "Value": "images/profile.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xgRlr9xT71DW5zTfOSKQ3t4SBnch9vdzTLmem3FUE6g="
+        }
+      ]
+    },
+    {
+      "Route": "styles/site.css",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\obj\\Debug\\net9.0\\compressed\\7ho8qo6vvw-qm5h72zcgq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000560852496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LLC2266A8jRBTpUNnGVhlYws7RW2hNdGj3rhMu0A2Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 16:05:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/site.css",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\styles\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 16:05:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/site.css.gz",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\obj\\Debug\\net9.0\\compressed\\7ho8qo6vvw-qm5h72zcgq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LLC2266A8jRBTpUNnGVhlYws7RW2hNdGj3rhMu0A2Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 16:05:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LLC2266A8jRBTpUNnGVhlYws7RW2hNdGj3rhMu0A2Oc="
+        }
+      ]
+    },
+    {
+      "Route": "styles/site.qm5h72zcgq.css",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\obj\\Debug\\net9.0\\compressed\\7ho8qo6vvw-qm5h72zcgq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000560852496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LLC2266A8jRBTpUNnGVhlYws7RW2hNdGj3rhMu0A2Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 16:05:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qm5h72zcgq"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/site.qm5h72zcgq.css",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\styles\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 16:05:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qm5h72zcgq"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-whUXom8FgpdUxJ6YJ4NFGCofcOJa/UhFZuDUadS4OVM="
+        }
+      ]
+    },
+    {
+      "Route": "styles/site.qm5h72zcgq.css.gz",
+      "AssetFile": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\obj\\Debug\\net9.0\\compressed\\7ho8qo6vvw-qm5h72zcgq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LLC2266A8jRBTpUNnGVhlYws7RW2hNdGj3rhMu0A2Oc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 16:05:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qm5h72zcgq"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LLC2266A8jRBTpUNnGVhlYws7RW2hNdGj3rhMu0A2Oc="
+        }
+      ]
+    }
+  ]
+}

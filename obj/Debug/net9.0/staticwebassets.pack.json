@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\homepage.jpg",
+      "PackagePath": "staticwebassets\\images\\homepage.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\csharp.png",
+      "PackagePath": "staticwebassets\\images\\icons\\csharp.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\email.png",
+      "PackagePath": "staticwebassets\\images\\icons\\email.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\figma.png",
+      "PackagePath": "staticwebassets\\images\\icons\\figma.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\flutter.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flutter.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\git.png",
+      "PackagePath": "staticwebassets\\images\\icons\\git.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\github.png",
+      "PackagePath": "staticwebassets\\images\\icons\\github.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\java.png",
+      "PackagePath": "staticwebassets\\images\\icons\\java.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\icons\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\netcore.png",
+      "PackagePath": "staticwebassets\\images\\icons\\netcore.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\phone.png",
+      "PackagePath": "staticwebassets\\images\\icons\\phone.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\python.png",
+      "PackagePath": "staticwebassets\\images\\icons\\python.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\react.png",
+      "PackagePath": "staticwebassets\\images\\icons\\react.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\vscode.png",
+      "PackagePath": "staticwebassets\\images\\icons\\vscode.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\icons\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\icons\\whatsapp.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\noBG.jpg",
+      "PackagePath": "staticwebassets\\images\\noBG.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\images\\profile.jpg",
+      "PackagePath": "staticwebassets\\images\\profile.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\.NET Dev\\Assignment\\SWE2209842Asg\\wwwroot\\styles\\site.css",
+      "PackagePath": "staticwebassets\\styles\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SWE2209842Asg.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SWE2209842Asg.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SWE2209842Asg.props",
+      "PackagePath": "build\\SWE2209842Asg.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SWE2209842Asg.props",
+      "PackagePath": "buildMultiTargeting\\SWE2209842Asg.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SWE2209842Asg.props",
+      "PackagePath": "buildTransitive\\SWE2209842Asg.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SWE2209842Asg.props" />
+</Project>

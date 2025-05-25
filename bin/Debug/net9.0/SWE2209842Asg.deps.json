@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SWE2209842Asg/1.0.0": {
+        "runtime": {
+          "SWE2209842Asg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SWE2209842Asg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
